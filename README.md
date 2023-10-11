@@ -26,7 +26,7 @@
 #### As a team we won't work dependently we will work to gather and the one who has the strength on any side will help the other one who has any problem in his/her task and we will manage our work using Trello
 ## Git Process
 #### The project will be on GitHub and Azure.
-#### I have already created an org on GitHub with two repositories one for the backend and I shared it with the members via email so each team member will clone the repository and start working
+#### I have already created an org on GitHub with two repositories one for the backend  and I shared it with the members via email so each team member will clone the repository and start working
 #### Once the tasks are divided, each team member will clone the repository and start working on the sub-branch, and then once we finished our work we will push the work to the sub-branch after discussing it with each other
 #### For sure we will use the pull request workflow while we are working on the project and all the team members will be able to review these PRs, also 2 team members will be able to merge the PRs, the team leader and one who made the PR
 #### For the merging we will merge the PRs each day and we will discuss this point at our meetings in discord
